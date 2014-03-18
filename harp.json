@@ -1,6 +1,7 @@
 {
-	"basicAuth": "admin:1234",
 	"globals" : {
-		"title" : "Prototype"
+		"title" : "A Prototype",
+		"url" : "http://www.example.com",
+		"debug" : false
 	}
 }
