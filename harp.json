@@ -1,0 +1,6 @@
+{
+	"basicAuth": "admin:1234",
+	"globals" : {
+		"title" : "Prototype"
+	}
+}
